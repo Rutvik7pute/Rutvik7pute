@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rutvik7pute
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning full stack developer.
+- 👀 I’m interested learning new things.
+- 🌱 I am working as SQL Developer.
 - 📫 How to reach me- satputerutvik07@gmail.com.
 
 <!---
